@@ -16,7 +16,7 @@ This project extract text from Html page and apply preprocessing in the text the
 ## Unique Words:
 Get Unique words after splitting the data to words by using python Set Data Structure.
 <br/>
-# Libiraries to Import:
+# Libraries to Import:
 - pip install BeautifulSoup
 - pip install pyspellchecker
 - pip install nltk
